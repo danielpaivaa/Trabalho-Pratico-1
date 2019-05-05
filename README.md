@@ -3,11 +3,12 @@
 Técnicas de Programação – 2019.1 – Prof. Wendley Silva
 
 Trabalho Prático Individual: 01
-
 Universidade Federal do Ceará – UFC Sobral
 
 Nome: Daniel Araujo Paiva - Matrícula: 432312
 
+
+Para iniciar a execução do programa, basta executar o  "Principal.java".
 
 Apresentando o projeto: Inicia-se com uma janela dando as Boas Vindas ao 
 usuário. Em seguida, o usuário terá que cadastrar 3 contas (Comum, Poupança 
